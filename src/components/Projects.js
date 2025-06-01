@@ -65,7 +65,7 @@ const Projects = () => {
       description:
         "The Meals Project is a modern Vue.js application that interacts with TheMealDB API to let users discover, search, and explore a wide variety of meals and recipes.",
       techs: [
-        "Vue js",
+        "Vue js 3",
         "Vite",
         "Tailwindcss",
         "Vuex",

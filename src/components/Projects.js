@@ -59,6 +59,17 @@ const Projects = () => {
         back: "https://github.com/your-username/mountshoes-backend",
       },
     },
+    {
+      id: 6,
+      title: "Meals Project",
+      description:
+        "The Meals Project is a modern Vue.js application that interacts with TheMealDB API to let users discover, search, and explore a wide variety of meals and recipes.",
+      techs: ["Vue js", "Vite", "Tailwindcss","Vuex","Axios","Vercel"],
+      links: {
+        Website: "https://meals-project-three.vercel.app/",
+        Code: "https://github.com/samerhassan95/Meals-Project",
+      },
+    },
   ];
 
   return (
